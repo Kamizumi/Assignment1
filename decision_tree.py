@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Timothy Tsang
 # FILENAME: Assignment1
-# SPECIFICATION: description of the program
+# SPECIFICATION: Creates a decision tree for the given csv file
 # FOR: CS 4210- Assignment #1
 # TIME SPENT: Years Jk the math part took like 3 hours, everything else was p chill
 #-----------------------------------------------------------*/
