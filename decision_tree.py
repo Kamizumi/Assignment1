@@ -28,7 +28,6 @@ with open('contact_lens.csv', 'r') as csvfile:
 #transform the original categorical training features into numbers and add to the 4D array X. For instance Young = 1, Prepresbyopic = 2, Presbyopic = 3
 #--> add your Python code here
 # X =
-X = []
 for row in db:
     X.append([
         1 if row[0] == "Young" else 2 if row[0] == "Prepresbyopic" else 3,
